@@ -22,11 +22,7 @@
 - Database: MySQL  
 
 ***
-ตัวอย่างการใช้งานระบบ
 
-หน้าเข้าสู่ระบบการใช้งาน (login/Register) สำหรับการยืนยันตัวตนการใช้งานในระบบของผู้ใช้โดยมีการแยกประเภทผู้ใช้ ลูกค้า-ช่างตัดผม-ผู้ดูแลระบบ ในการใช้งาน
-
-!(https://media.canva.com/v2/image-resize/format:PNG/height:596/quality:100/uri:ifs%3A%2F%2FM%2Fa520c542-d3a1-4fe3-94ce-695db4eaf6a0/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAPA85UbT8AaxvME-m5kkP3xG7mSNPVIdBELZp-62VM9c&exp=1768833797&osig=AAAAAAAAAAAAAAAAAAAAALeDLnN_j0bixoo_-oY5ZewWWHRC8pWbFJU34N6fwDrt&signer=media-rpc&x-canva-quality=screen)
 
 
 
