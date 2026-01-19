@@ -16,9 +16,10 @@
 ***
 
 เครื่องมือที่ใช้
-FrontEnd: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL 
+- Front-End: HTML, CSS, JavaScript  
+- Back-End: PHP  
+- Database: MySQL  
+
 
 ***
 
